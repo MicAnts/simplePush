@@ -13,3 +13,8 @@
 3. ./autoGitPush.sh
 4. 根据提示输入/选择
 5. 出现 push Success！！！说明 push 成功
+
+### 全局命令设置 
+vi ~/.zshrc
+alias simplePush="User/dengdaoyuan/Documents/shell/simple/autoGitPush.sh"
+source ~/.zshrc
