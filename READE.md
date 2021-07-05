@@ -16,5 +16,7 @@
 
 ### 全局命令设置 
 vi ~/.zshrc
+
 alias simplePush="User/dengdaoyuan/Documents/shell/simple/autoGitPush.sh"
+
 source ~/.zshrc
